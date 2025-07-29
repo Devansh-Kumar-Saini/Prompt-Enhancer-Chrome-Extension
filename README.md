@@ -19,14 +19,14 @@ The project directory contains the following files:
 
 Chrome_Extension_Project/
 │
-├── Screenshots/        # Contains Screen shots for better installation guide
-├── background.js       # Handles background tasks and event listeners
-├── content.js          # Injected into web pages to interact with DOM elements
-├── icon.png            # Extension icon used in the Chrome toolbar and manifest
-├── manifest.json       # Metadata and configuration for the Chrome extension
-├── popup.html          # HTML layout for the extension's popup interface
-├── style.css           # Styling for the popup interface
-└── README.md           # Documentation and overview of the project
+├── Screenshots/        
+├── background.js       
+├── content.js         
+├── icon.png            
+├── manifest.json       
+├── popup.html          
+├── style.css          
+└── README.md           
 
 ---
 
