@@ -18,6 +18,7 @@
 The project directory contains the following files:
 
 Chrome_Extension_Project/
+<br>
 │
 ├── Screenshots/        
 ├── background.js       
