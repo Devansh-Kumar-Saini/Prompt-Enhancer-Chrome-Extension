@@ -1,0 +1,14 @@
+.regenerate-btn {
+  position: absolute;
+  background: #4CAF50;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  z-index: 9999;
+  cursor: pointer;
+  font-size: 14px;
+}
+.regenerate-btn:hover {
+  background: #45a049;
+}
